@@ -1,7 +1,6 @@
-API_ID = '24806729'
-API_HASH = '0ddb21093e4fadf8c20386ac164665df'
-TELEPHONE_NUMBER = '+90 531 961 98 23'
-CHANNEL_NAME = 'cyberbully_test'
+API_ID = ''
+API_HASH = ''
+CHANNEL_NAME = ''
 
 # LightGBM parameters
 LIGHTGBM_PARAMS = {
